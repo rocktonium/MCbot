@@ -1,0 +1,1917 @@
+List of blocks
+Blocks with an item form
+The following blocks listed are obtainable in the current version of the game, either as inventory items or physical blocks that have been placed down in the world.
+
+ Acacia Button
+ Acacia Door
+ Acacia Fence
+ Acacia Fence Gate
+ Acacia Hanging Sign
+ Acacia Leaves
+ Acacia Log
+ Acacia Planks
+ Acacia Pressure Plate
+ Acacia Sapling
+ Acacia Shelf
+ Acacia Sign
+ Acacia Slab
+ Acacia Stairs
+ Acacia Trapdoor
+ Acacia Wood
+ Activator Rail
+ Allium
+ Allow‌[BE only]
+ Amethyst Cluster
+ Ancient Debris
+ Andesite
+ Andesite Slab
+ Andesite Stairs
+ Andesite Wall
+ Anvil
+ Azalea
+ Azalea Leaves
+ Azure Bluet
+ Bamboo
+ Bamboo Button
+ Bamboo Door
+ Bamboo Fence
+ Bamboo Fence Gate
+ Bamboo Hanging Sign
+ Bamboo Mosaic
+ Bamboo Mosaic Slab
+ Bamboo Mosaic Stairs
+ Bamboo Planks
+ Bamboo Pressure Plate
+ Bamboo Shelf
+ Bamboo Shoot
+ Bamboo Sign
+ Bamboo Slab
+ Bamboo Stairs
+ Bamboo Trapdoor
+ Barrel
+ Barrier
+ Basalt
+ Beacon
+ Bedrock
+ Bee Nest
+ Beehive
+ Beetroots
+ Bell
+ Big Dripleaf
+ Birch Button
+ Birch Door
+ Birch Fence
+ Birch Fence Gate
+ Birch Hanging Sign
+ Birch Leaves
+ Birch Log
+ Birch Planks
+ Birch Pressure Plate
+ Birch Sapling
+ Birch Shelf
+ Birch Sign
+ Birch Slab
+ Birch Stairs
+ Birch Trapdoor
+ Birch Wood
+ Black Banner
+ Black Bed
+ Black Candle
+ Black Carpet
+ Black Concrete
+ Black Concrete Powder
+ Black Concrete Slab​[upcoming: Third Drop 2026]
+ Black Concrete Stairs​[upcoming: Third Drop 2026]
+ Black Glazed Terracotta
+ Black Shulker Box
+ Black Stained Glass
+ Black Stained Glass Pane
+ Black Terracotta
+ Black Wool
+ Black Wool Slab​[upcoming: Third Drop 2026]
+ Black Wool Stairs​[upcoming: Third Drop 2026]
+ Blackstone
+ Blackstone Slab
+ Blackstone Stairs
+ Blackstone Wall
+ Blast Furnace
+ Block of Amethyst
+ Block of Bamboo
+ Block of Coal
+ Block of Copper
+ Block of Diamond
+ Block of Emerald
+ Block of Gold
+ Block of Iron
+ Block of Lapis Lazuli
+ Block of Netherite
+ Block of Quartz
+ Block of Raw Copper
+ Block of Raw Gold
+ Block of Raw Iron
+ Block of Redstone
+ Block of Resin
+ Block of Stripped Bamboo
+ Blue Banner
+ Blue Bed
+ Blue Candle
+ Blue Carpet
+ Blue Concrete
+ Blue Concrete Powder
+ Blue Concrete Slab​[upcoming: Third Drop 2026]
+ Blue Concrete Stairs​[upcoming: Third Drop 2026]
+ Blue Glazed Terracotta
+ Blue Ice
+ Blue Orchid
+ Blue Shulker Box
+ Blue Stained Glass
+ Blue Stained Glass Pane
+ Blue Terracotta
+ Blue Wool
+ Blue Wool Slab​[upcoming: Third Drop 2026]
+ Blue Wool Stairs​[upcoming: Third Drop 2026]
+ Bone Block
+ Bookshelf
+ Border‌[BE only]
+ Brain Coral
+ Brain Coral Block
+ Brain Coral Fan
+ Brewing Stand
+ Brick Slab
+ Brick Stairs
+ Brick Wall
+ Bricks
+ Brown Banner
+ Brown Bed
+ Brown Candle
+ Brown Carpet
+ Brown Concrete
+ Brown Concrete Powder
+ Brown Concrete Slab​[upcoming: Third Drop 2026]
+ Brown Concrete Stairs​[upcoming: Third Drop 2026]
+ Brown Glazed Terracotta
+ Brown Mushroom
+ Brown Mushroom Block
+ Brown Shulker Box
+ Brown Stained Glass
+ Brown Stained Glass Pane
+ Brown Terracotta
+ Brown Wool
+ Brown Wool Slab​[upcoming: Third Drop 2026]
+ Brown Wool Stairs​[upcoming: Third Drop 2026]
+ Bubble Column
+ Bubble Coral
+ Bubble Coral Block
+ Bubble Coral Fan
+ Budding Amethyst
+ Bush
+ Cactus
+ Cactus Flower
+ Cake
+ Calcite
+ Calibrated Sculk Sensor
+ Campfire
+ Candle
+ Carrots
+ Cartography Table
+ Carved Pumpkin
+ Cauldron
+ Cave Vines
+ Chain Command Block
+ Chest
+ Cherry Button
+ Cherry Door
+ Cherry Fence
+ Cherry Fence Gate
+ Cherry Hanging Sign
+ Cherry Leaves
+ Cherry Log
+ Cherry Planks
+ Cherry Pressure Plate
+ Cherry Sapling
+ Cherry Shelf
+ Cherry Sign
+ Cherry Slab
+ Cherry Stairs
+ Cherry Trapdoor
+ Cherry Wood
+ Chipped Anvil
+ Chiseled Bookshelf
+ Chiseled Cinnabar
+ Chiseled Copper
+ Chiseled Deepslate
+ Chiseled Nether Bricks
+ Chiseled Polished Blackstone
+ Chiseled Quartz Block
+ Chiseled Red Sandstone
+ Chiseled Resin Bricks
+ Chiseled Sandstone
+ Chiseled Stone Bricks
+ Chiseled Sulfur
+ Chiseled Tuff
+ Chiseled Tuff Bricks
+ Chorus Flower
+ Chorus Plant
+ Cinnabar
+ Cinnabar Brick Slab
+ Cinnabar Brick Stairs
+ Cinnabar Brick Wall
+ Cinnabar Bricks
+ Cinnabar Slab
+ Cinnabar Stairs
+ Cinnabar Wall
+ Clay
+ Closed Eyeblossom
+ Coal Ore
+ Coarse Dirt
+ Cobbled Deepslate
+ Cobbled Deepslate Slab
+ Cobbled Deepslate Stairs
+ Cobbled Deepslate Wall
+ Cobblestone
+ Cobblestone Slab
+ Cobblestone Stairs
+ Cobblestone Wall
+ Cobweb
+ Cocoa
+ Command Block
+ Composter
+ Conduit
+ Copper Bars
+ Copper Bulb
+ Copper Chain
+ Copper Chest
+ Copper Door
+ Copper Golem Statue
+ Copper Grate
+ Copper Lantern
+ Copper Ore
+ Copper Torch
+ Copper Trapdoor
+ Cornflower
+ Cracked Deepslate Bricks
+ Cracked Deepslate Tiles
+ Cracked Nether Bricks
+ Cracked Polished Blackstone Bricks
+ Cracked Stone Bricks
+ Crafter
+ Crafting Table
+ Creaking Heart
+ Creeper Head
+ Crimson Button
+ Crimson Door
+ Crimson Fence
+ Crimson Fence Gate
+ Crimson Fungus
+ Crimson Hanging Sign
+ Crimson Hyphae
+ Crimson Nylium
+ Crimson Planks
+ Crimson Pressure Plate
+ Crimson Roots
+ Crimson Shelf
+ Crimson Sign
+ Crimson Slab
+ Crimson Stairs
+ Crimson Stem
+ Crimson Trapdoor
+ Crying Obsidian
+ Cut Copper
+ Cut Copper Slab
+ Cut Copper Stairs
+ Cut Red Sandstone
+ Cut Red Sandstone Slab
+ Cut Sandstone
+ Cut Sandstone Slab
+ Cyan Banner
+ Cyan Bed
+ Cyan Candle
+ Cyan Carpet
+ Cyan Concrete
+ Cyan Concrete Powder
+ Cyan Concrete Slab​[upcoming: Third Drop 2026]
+ Cyan Concrete Stairs​[upcoming: Third Drop 2026]
+ Cyan Glazed Terracotta
+ Cyan Shulker Box
+ Cyan Stained Glass
+ Cyan Stained Glass Pane
+ Cyan Terracotta
+ Cyan Wool
+ Cyan Wool Slab​[upcoming: Third Drop 2026]
+ Cyan Wool Stairs​[upcoming: Third Drop 2026]
+ Damaged Anvil
+ Dandelion
+ Dark Oak Button
+ Dark Oak Door
+ Dark Oak Fence
+ Dark Oak Fence Gate
+ Dark Oak Hanging Sign
+ Dark Oak Leaves
+ Dark Oak Log
+ Dark Oak Planks
+ Dark Oak Pressure Plate
+ Dark Oak Sapling
+ Dark Oak Shelf
+ Dark Oak Sign
+ Dark Oak Slab
+ Dark Oak Stairs
+ Dark Oak Trapdoor
+ Dark Oak Wood
+ Dark Prismarine
+ Dark Prismarine Slab
+ Dark Prismarine Stairs
+ Daylight Detector
+ Dead Brain Coral
+ Dead Brain Coral Block
+ Dead Brain Coral Fan
+ Dead Bubble Coral
+ Dead Bubble Coral Block
+ Dead Bubble Coral Fan
+ Dead Bush
+ Dead Fire Coral
+ Dead Fire Coral Block
+ Dead Fire Coral Fan
+ Dead Horn Coral
+ Dead Horn Coral Block
+ Dead Horn Coral Fan
+ Dead Tube Coral
+ Dead Tube Coral Block
+ Dead Tube Coral Fan
+ Decorated Pot
+ Deepslate
+ Deepslate Brick Slab
+ Deepslate Brick Stairs
+ Deepslate Brick Wall
+ Deepslate Bricks
+ Deepslate Coal Ore
+ Deepslate Copper Ore
+ Deepslate Diamond Ore
+ Deepslate Emerald Ore
+ Deepslate Gold Ore
+ Deepslate Iron Ore
+ Deepslate Lapis Lazuli Ore
+ Deepslate Redstone Ore
+ Deepslate Tile Slab
+ Deepslate Tile Stairs
+ Deepslate Tile Wall
+ Deepslate Tiles
+ Deny‌[BE only]
+ Detector Rail
+ Diamond Ore
+ Diorite
+ Diorite Slab
+ Diorite Stairs
+ Diorite Wall
+ Dirt
+ Dirt Path
+ Dispenser
+ Dragon Egg
+ Dragon Head
+ Dried Ghast
+ Dried Kelp Block
+ Dripstone Block
+ Dropper
+ Emerald Ore
+ Enchanting Table
+ End Gateway
+ End Portal
+ End Portal Frame
+ End Rod
+ End Stone
+ End Stone Brick Slab
+ End Stone Brick Stairs
+ End Stone Brick Wall
+ End Stone Bricks
+ Ender Chest
+ Exposed Chiseled Copper
+ Exposed Copper
+ Exposed Copper Bars
+ Exposed Copper Bulb
+ Exposed Copper Chain
+ Exposed Copper Chest
+ Exposed Copper Door
+ Exposed Copper Golem Statue
+ Exposed Copper Grate
+ Exposed Copper Lantern
+ Exposed Copper Trapdoor
+ Exposed Cut Copper
+ Exposed Cut Copper Slab
+ Exposed Cut Copper Stairs
+ Exposed Lightning Rod
+ Farmland
+ Fern
+ Fire
+ Fire Coral
+ Fire Coral Block
+ Fire Coral Fan
+ Firefly Bush
+ Fletching Table
+ Flower Pot
+ Flowering Azalea
+ Flowering Azalea Leaves
+ Frogspawn
+ Frosted Ice
+ Furnace
+ Gilded Blackstone
+ Glass
+ Glass Pane
+ Glow Item Frame (a block in Bedrock Edition)
+ Glow Lichen
+ Glowstone
+ Gold Ore
+ Golden Dandelion
+ Granite
+ Granite Slab
+ Granite Stairs
+ Granite Wall
+ Grass Block
+ Gravel
+ Gray Banner
+ Gray Bed
+ Gray Candle
+ Gray Carpet
+ Gray Concrete
+ Gray Concrete Powder
+ Gray Concrete Slab​[upcoming: Third Drop 2026]
+ Gray Concrete Stairs​[upcoming: Third Drop 2026]
+ Gray Glazed Terracotta
+ Gray Shulker Box
+ Gray Stained Glass
+ Gray Stained Glass Pane
+ Gray Terracotta
+ Gray Wool
+ Gray Wool Slab​[upcoming: Third Drop 2026]
+ Gray Wool Stairs​[upcoming: Third Drop 2026]
+ Green Banner
+ Green Bed
+ Green Candle
+ Green Carpet
+ Green Concrete
+ Green Concrete Powder
+ Green Concrete Slab​[upcoming: Third Drop 2026]
+ Green Concrete Stairs​[upcoming: Third Drop 2026]
+ Green Glazed Terracotta
+ Green Shulker Box
+ Green Stained Glass
+ Green Stained Glass Pane
+ Green Terracotta
+ Green Wool
+ Green Wool Slab​[upcoming: Third Drop 2026]
+ Green Wool Stairs​[upcoming: Third Drop 2026]
+ Grindstone
+ Hanging Roots
+ Hay Bale
+ Heavy Core
+ Heavy Weighted Pressure Plate
+ Honey Block
+ Honeycomb Block
+ Hopper
+ Horn Coral
+ Horn Coral Block
+ Horn Coral Fan
+ Ice
+ Infested Chiseled Stone Bricks
+ Infested Cobblestone
+ Infested Cracked Stone Bricks
+ Infested Deepslate
+ Infested Mossy Stone Bricks
+ Infested Stone
+ Infested Stone Bricks
+ Item Frame (a block in Bedrock Edition)
+ Iron Bars
+ Iron Chain
+ Iron Door
+ Iron Ore
+ Iron Trapdoor
+ Jack o'Lantern
+ Jigsaw Block
+ Jukebox
+ Jungle Button
+ Jungle Door
+ Jungle Fence
+ Jungle Fence Gate
+ Jungle Hanging Sign
+ Jungle Leaves
+ Jungle Log
+ Jungle Planks
+ Jungle Pressure Plate
+ Jungle Sapling
+ Jungle Shelf
+ Jungle Sign
+ Jungle Slab
+ Jungle Stairs
+ Jungle Trapdoor
+ Jungle Wood
+ Kelp
+ Ladder
+ Lantern
+ Lapis Lazuli Ore
+ Large Amethyst Bud
+ Large Fern
+ Lava
+ Leaf Litter
+ Lectern
+ Lever
+ Light
+ Light Blue Banner
+ Light Blue Bed
+ Light Blue Candle
+ Light Blue Carpet
+ Light Blue Concrete
+ Light Blue Concrete Powder
+ Light Blue Concrete Slab​[upcoming: Third Drop 2026]
+ Light Blue Concrete Stairs​[upcoming: Third Drop 2026]
+ Light Blue Glazed Terracotta
+ Light Blue Shulker Box
+ Light Blue Stained Glass
+ Light Blue Stained Glass Pane
+ Light Blue Terracotta
+ Light Blue Wool
+ Light Blue Wool Slab​[upcoming: Third Drop 2026]
+ Light Blue Wool Stairs​[upcoming: Third Drop 2026]
+ Light Gray Banner
+ Light Gray Bed
+ Light Gray Candle
+ Light Gray Carpet
+ Light Gray Concrete
+ Light Gray Concrete Powder
+ Light Gray Concrete Slab​[upcoming: Third Drop 2026]
+ Light Gray Concrete Stairs​[upcoming: Third Drop 2026]
+ Light Gray Glazed Terracotta
+ Light Gray Shulker Box
+ Light Gray Stained Glass
+ Light Gray Stained Glass Pane
+ Light Gray Terracotta
+ Light Gray Wool
+ Light Gray Wool Slab​[upcoming: Third Drop 2026]
+ Light Gray Wool Stairs​[upcoming: Third Drop 2026]
+ Light Weighted Pressure Plate
+ Lightning Rod
+ Lilac
+ Lily of the Valley
+ Lily Pad
+ Lime Banner
+ Lime Bed
+ Lime Candle
+ Lime Carpet
+ Lime Concrete
+ Lime Concrete Powder
+ Lime Concrete Slab​[upcoming: Third Drop 2026]
+ Lime Concrete Stairs​[upcoming: Third Drop 2026]
+ Lime Glazed Terracotta
+ Lime Shulker Box
+ Lime Stained Glass
+ Lime Stained Glass Pane
+ Lime Terracotta
+ Lime Wool
+ Lime Wool Slab​[upcoming: Third Drop 2026]
+ Lime Wool Stairs​[upcoming: Third Drop 2026]
+ Lodestone
+ Loom
+ Magenta Banner
+ Magenta Bed
+ Magenta Candle
+ Magenta Carpet
+ Magenta Concrete
+ Magenta Concrete Powder
+ Magenta Concrete Slab​[upcoming: Third Drop 2026]
+ Magenta Concrete Stairs​[upcoming: Third Drop 2026]
+ Magenta Glazed Terracotta
+ Magenta Shulker Box
+ Magenta Stained Glass
+ Magenta Stained Glass Pane
+ Magenta Terracotta
+ Magenta Wool
+ Magenta Wool Slab​[upcoming: Third Drop 2026]
+ Magenta Wool Stairs​[upcoming: Third Drop 2026]
+ Magma Block
+ Mangrove Button
+ Mangrove Door
+ Mangrove Fence
+ Mangrove Fence Gate
+ Mangrove Hanging Sign
+ Mangrove Leaves
+ Mangrove Log
+ Mangrove Pressure Plate
+ Mangrove Propagule
+ Mangrove Planks
+ Mangrove Roots
+ Mangrove Shelf
+ Mangrove Sign
+ Mangrove Slab
+ Mangrove Stairs
+ Mangrove Trapdoor
+ Mangrove Wood
+ Medium Amethyst Bud
+ Melon
+ Melon Stem
+ Monster Spawner
+ Moss Block
+ Moss Carpet
+ Mossy Cobblestone
+ Mossy Cobblestone Slab
+ Mossy Cobblestone Stairs
+ Mossy Cobblestone Wall
+ Mossy Stone Brick Slab
+ Mossy Stone Brick Stairs
+ Mossy Stone Brick Wall
+ Mossy Stone Bricks
+ Mud
+ Mud Brick Slab
+ Mud Brick Stairs
+ Mud Brick Wall
+ Mud Bricks
+ Muddy Mangrove Roots
+ Mushroom Stem
+ Mycelium
+ Nether Brick Fence
+ Nether Brick Slab
+ Nether Brick Stairs
+ Nether Brick Wall
+ Nether Bricks
+ Nether Gold Ore
+ Nether Portal
+ Nether Quartz Ore
+ Nether Sprouts
+ Nether Wart
+ Nether Wart Block
+ Netherrack
+ Note Block
+ Oak Button
+ Oak Door
+ Oak Fence
+ Oak Fence Gate
+ Oak Hanging Sign
+ Oak Leaves
+ Oak Log
+ Oak Planks
+ Oak Pressure Plate
+ Oak Sapling
+ Oak Shelf
+ Oak Sign
+ Oak Slab
+ Oak Stairs
+ Oak Trapdoor
+ Oak Wood
+ Observer
+ Obsidian
+ Ochre Froglight
+ Ominous Banner
+ Open Eyeblossom
+ Orange Banner
+ Orange Bed
+ Orange Candle
+ Orange Carpet
+ Orange Concrete
+ Orange Concrete Powder
+ Orange Concrete Slab​[upcoming: Third Drop 2026]
+ Orange Concrete Stairs​[upcoming: Third Drop 2026]
+ Orange Glazed Terracotta
+ Orange Poplar Leaves​[upcoming: Third Drop 2026]
+ Orange Shulker Box
+ Orange Stained Glass
+ Orange Stained Glass Pane
+ Orange Terracotta
+ Orange Tulip
+ Orange Wool
+ Orange Wool Slab​[upcoming: Third Drop 2026]
+ Orange Wool Stairs​[upcoming: Third Drop 2026]
+ Oxeye Daisy
+ Oxidized Chiseled Copper
+ Oxidized Copper
+ Oxidized Copper Bars
+ Oxidized Copper Bulb
+ Oxidized Copper Chain
+ Oxidized Copper Chest
+ Oxidized Copper Door
+ Oxidized Copper Golem Statue
+ Oxidized Copper Grate
+ Oxidized Copper Lantern
+ Oxidized Copper Trapdoor
+ Oxidized Cut Copper
+ Oxidized Cut Copper Slab
+ Oxidized Cut Copper Stairs
+ Oxidized Lightning Rod
+ Packed Ice
+ Packed Mud
+ Pale Hanging Moss
+ Pale Moss Block
+ Pale Moss Carpet
+ Pale Oak Button
+ Pale Oak Door
+ Pale Oak Fence
+ Pale Oak Fence Gate
+ Pale Oak Hanging Sign
+ Pale Oak Leaves
+ Pale Oak Planks
+ Pale Oak Pressure Plate
+ Pale Oak Log
+ Pale Oak Sapling
+ Pale Oak Shelf
+ Pale Oak Sign
+ Pale Oak Slab
+ Pale Oak Stairs
+ Pale Oak Trapdoor
+ Pale Oak Wood
+ Pearlescent Froglight
+ Peony
+ Petrified Oak Slab
+ Piglin Head
+ Pink Banner
+ Pink Bed
+ Pink Candle
+ Pink Carpet
+ Pink Concrete
+ Pink Concrete Powder
+ Pink Concrete Slab​[upcoming: Third Drop 2026]
+ Pink Concrete Stairs​[upcoming: Third Drop 2026]
+ Pink Glazed Terracotta
+ Pink Petals
+ Pink Shulker Box
+ Pink Stained Glass
+ Pink Stained Glass Pane
+ Pink Terracotta
+ Pink Tulip
+ Pink Wool
+ Pink Wool Slab​[upcoming: Third Drop 2026]
+ Pink Wool Stairs​[upcoming: Third Drop 2026]
+ Piston
+ Pitcher Crop
+ Pitcher Plant
+ Player Head
+ Podzol
+ Pointed Dripstone
+ Polished Andesite
+ Polished Andesite Slab
+ Polished Andesite Stairs
+ Polished Basalt
+ Polished Blackstone
+ Polished Blackstone Brick Slab
+ Polished Blackstone Brick Stairs
+ Polished Blackstone Brick Wall
+ Polished Blackstone Bricks
+ Polished Blackstone Button
+ Polished Blackstone Pressure Plate
+ Polished Blackstone Slab
+ Polished Blackstone Stairs
+ Polished Blackstone Wall
+ Polished Cinnabar
+ Polished Cinnabar Slab
+ Polished Cinnabar Stairs
+ Polished Cinnabar Wall
+ Polished Deepslate
+ Polished Deepslate Slab
+ Polished Deepslate Stairs
+ Polished Deepslate Wall
+ Polished Diorite
+ Polished Diorite Slab
+ Polished Diorite Stairs
+ Polished Granite
+ Polished Granite Slab
+ Polished Granite Stairs
+ Polished Sulfur
+ Polished Sulfur Slab
+ Polished Sulfur Stairs
+ Polished Sulfur Wall
+ Polished Tuff
+ Polished Tuff Slab
+ Polished Tuff Stairs
+ Polished Tuff Wall
+ Poplar Button​[upcoming: Third Drop 2026]
+Poplar Door​[upcoming: Third Drop 2026]
+ Poplar Fence​[upcoming: Third Drop 2026]
+ Poplar Fence Gate​[upcoming: Third Drop 2026]
+ Poplar Hanging Sign​[upcoming: Third Drop 2026]
+ Poplar Log​[upcoming: Third Drop 2026]
+ Poplar Planks​[upcoming: Third Drop 2026]
+ Poplar Pressure Plate​[upcoming: Third Drop 2026]
+ Poplar Sapling​[upcoming: Third Drop 2026]
+ Poplar Shelf​[upcoming: Third Drop 2026]
+Poplar Sign​[upcoming: Third Drop 2026]
+ Poplar Slab​[upcoming: Third Drop 2026]
+ Poplar Stairs​[upcoming: Third Drop 2026]
+ Poplar Trapdoor​[upcoming: Third Drop 2026]
+ Poplar Wood​[upcoming: Third Drop 2026]
+ Poppy
+ Potatoes
+ Potent Sulfur
+ Powder Snow
+ Powered Rail
+ Prismarine
+ Prismarine Brick Slab
+ Prismarine Brick Stairs
+ Prismarine Bricks
+ Prismarine Slab
+ Prismarine Stairs
+ Prismarine Wall
+ Pumpkin
+ Pumpkin Stem
+ Purple Banner
+ Purple Bed
+ Purple Candle
+ Purple Carpet
+ Purple Concrete
+ Purple Concrete Powder
+ Purple Concrete Slab​[upcoming: Third Drop 2026]
+ Purple Concrete Stairs​[upcoming: Third Drop 2026]
+ Purple Glazed Terracotta
+ Purple Shulker Box
+ Purple Stained Glass
+ Purple Stained Glass Pane
+ Purple Terracotta
+ Purple Wool
+ Purple Wool Slab​[upcoming: Third Drop 2026]
+ Purple Wool Stairs​[upcoming: Third Drop 2026]
+ Purpur Block
+ Purpur Pillar
+ Purpur Slab
+ Purpur Stairs
+ Quartz Bricks
+ Quartz Pillar
+ Quartz Slab
+ Quartz Stairs
+ Rail
+ Red Banner
+ Red Bed
+ Red Candle
+ Red Carpet
+ Red Concrete
+ Red Concrete Powder
+ Red Concrete Slab​[upcoming: Third Drop 2026]
+ Red Concrete Stairs​[upcoming: Third Drop 2026]
+ Red Glazed Terracotta
+ Red Mushroom
+ Red Mushroom Block
+ Red Nether Brick Slab
+ Red Nether Brick Stairs
+ Red Nether Brick Wall
+ Red Nether Bricks
+ Red Poplar Leaves​[upcoming: Third Drop 2026]
+ Red Sand
+ Red Sandstone
+ Red Sandstone Slab
+ Red Sandstone Stairs
+ Red Sandstone Wall
+ Red Shrub​[upcoming: Third Drop 2026]
+ Red Shulker Box
+ Red Stained Glass
+ Red Stained Glass Pane
+ Red Terracotta
+ Red Tulip
+ Red Wool
+ Red Wool Slab​[upcoming: Third Drop 2026]
+ Red Wool Stairs​[upcoming: Third Drop 2026]
+ Redstone Comparator
+ Redstone Lamp
+ Redstone Ore
+ Redstone Repeater
+ Redstone Torch
+ Redstone Wire
+ Reinforced Deepslate
+ Repeating Command Block
+ Respawn Anchor
+ Resin Brick Slab
+ Resin Brick Stairs
+ Resin Brick Wall
+ Resin Bricks
+ Resin Clump
+ Rooted Dirt
+ Rose Bush
+ Sand
+ Sandstone
+ Sandstone Slab
+ Sandstone Stairs
+ Sandstone Wall
+ Scaffolding
+ Sculk
+ Sculk Catalyst
+ Sculk Sensor
+ Sculk Shrieker
+ Sculk Vein
+ Sea Lantern
+ Sea Pickle
+ Seagrass
+ Short Dry Grass
+ Short Grass
+ Shroomlight
+ Shulker Box
+ Skeleton Skull
+ Slime Block
+ Small Amethyst Bud
+ Small Dripleaf
+ Smithing Table
+ Smoker
+ Smooth Basalt
+ Smooth Quartz Block
+ Smooth Quartz Slab
+ Smooth Quartz Stairs
+ Smooth Red Sandstone
+ Smooth Red Sandstone Slab
+ Smooth Red Sandstone Stairs
+ Smooth Sandstone
+ Smooth Sandstone Slab
+ Smooth Sandstone Stairs
+ Smooth Stone
+ Smooth Stone Slab
+ Sniffer Egg
+ Snow
+ Snow Block
+ Soul Campfire
+ Soul Fire
+ Soul Lantern
+ Soul Sand
+ Soul Soil
+ Soul Torch
+ Sponge
+ Spore Blossom
+ Spruce Button
+ Spruce Door
+ Spruce Fence
+ Spruce Fence Gate
+ Spruce Hanging Sign
+ Spruce Leaves
+ Spruce Log
+ Spruce Planks
+ Spruce Pressure Plate
+ Spruce Sapling
+ Spruce Shelf
+ Spruce Sign
+ Shelf Mushroom​[upcoming: Third Drop 2026]
+ Spruce Slab
+ Spruce Stairs
+ Spruce Trapdoor
+ Spruce Wood
+ Sticky Piston
+ Stone
+ Stone Brick Slab
+ Stone Brick Stairs
+ Stone Brick Wall
+ Stone Bricks
+ Stone Button
+ Stone Pressure Plate
+ Stone Slab
+ Stone Stairs
+ Stonecutter
+ Straw Bed​[upcoming: Third Drop 2026]
+ Stripped Acacia Log
+ Stripped Acacia Wood
+ Stripped Birch Log
+ Stripped Birch Wood
+ Stripped Cherry Log
+ Stripped Cherry Wood
+ Stripped Crimson Hyphae
+ Stripped Crimson Stem
+ Stripped Dark Oak Log
+ Stripped Dark Oak Wood
+ Stripped Jungle Log
+ Stripped Jungle Wood
+ Stripped Mangrove Log
+ Stripped Mangrove Wood
+ Stripped Oak Log
+ Stripped Oak Wood
+ Stripped Pale Oak Log
+ Stripped Pale Oak Wood
+ Stripped Poplar Log​[upcoming: Third Drop 2026]
+ Stripped Poplar Wood​[upcoming: Third Drop 2026]
+ Stripped Spruce Log
+ Stripped Spruce Wood
+ Stripped Warped Hyphae
+ Stripped Warped Stem
+ Structure Block
+ Structure Void
+ Sugar Cane
+ Sulfur
+ Sulfur Brick Slab
+ Sulfur Brick Stairs
+ Sulfur Brick Wall
+ Sulfur Bricks
+ Sulfur Slab
+ Sulfur Spike
+ Sulfur Stairs
+ Sulfur Wall
+ Sunflower
+ Suspicious Gravel
+ Suspicious Sand
+ Sweet Berry Bush
+ Tall Dry Grass
+ Tall Grass
+ Tall Seagrass
+ Target
+ Terracotta
+ Test Block
+ Test Instance Block
+ Tinted Glass
+ TNT
+ Torch
+ Torchflower
+ Torchflower Crop
+ Trapped Chest
+ Trial Spawner
+ Tripwire
+ Tripwire Hook
+ Tube Coral
+ Tube Coral Block
+ Tube Coral Fan
+ Tuff
+ Tuff Brick Slab
+ Tuff Brick Stairs
+ Tuff Brick Wall
+ Tuff Bricks
+ Tuff Slab
+ Tuff Stairs
+ Tuff Wall
+ Turtle Egg
+ Twisting Vines
+ Vault
+ Verdant Froglight
+ Vines
+ Warped Button
+ Warped Door
+ Warped Fence
+ Warped Fence Gate
+ Warped Fungus
+ Warped Hanging Sign
+ Warped Hyphae
+ Warped Nylium
+ Warped Planks
+ Warped Pressure Plate
+ Warped Roots
+ Warped Shelf
+ Warped Sign
+ Warped Slab
+ Warped Stairs
+ Warped Stem
+ Warped Trapdoor
+ Warped Wart Block
+ Water
+ Waxed Block of Copper
+ Waxed Chiseled Copper
+ Waxed Copper Bars
+ Waxed Copper Bulb
+ Waxed Copper Chain
+ Waxed Copper Chest
+ Waxed Copper Door
+ Waxed Copper Golem Statue
+ Waxed Copper Grate
+ Waxed Copper Lantern
+ Waxed Copper Trapdoor
+ Waxed Cut Copper
+ Waxed Cut Copper Slab
+ Waxed Cut Copper Stairs
+ Waxed Exposed Chiseled Copper
+ Waxed Exposed Copper
+ Waxed Exposed Copper Bars
+ Waxed Exposed Copper Bulb
+ Waxed Exposed Copper Chain
+ Waxed Exposed Copper Chest
+ Waxed Exposed Copper Door
+ Waxed Exposed Copper Golem Statue
+ Waxed Exposed Copper Grate
+ Waxed Exposed Copper Lantern
+ Waxed Exposed Copper Trapdoor
+ Waxed Exposed Cut Copper
+ Waxed Exposed Cut Copper Slab
+ Waxed Exposed Cut Copper Stairs
+ Waxed Exposed Lightning Rod
+ Waxed Lightning Rod
+ Waxed Oxidized Chiseled Copper
+ Waxed Oxidized Copper
+ Waxed Oxidized Copper Bars
+ Waxed Oxidized Copper Bulb
+ Waxed Oxidized Copper Chain
+ Waxed Oxidized Copper Chest
+ Waxed Oxidized Copper Door
+ Waxed Oxidized Copper Golem Statue
+ Waxed Oxidized Copper Grate
+ Waxed Oxidized Copper Lantern
+ Waxed Oxidized Copper Trapdoor
+ Waxed Oxidized Cut Copper
+ Waxed Oxidized Cut Copper Slab
+ Waxed Oxidized Cut Copper Stairs
+ Waxed Oxidized Lightning Rod
+ Waxed Weathered Chiseled Copper
+ Waxed Weathered Copper
+ Waxed Weathered Copper Bars
+ Waxed Weathered Copper Bulb
+ Waxed Weathered Copper Chain
+ Waxed Weathered Copper Chest
+ Waxed Weathered Copper Door
+ Waxed Weathered Copper Golem Statue
+ Waxed Weathered Copper Grate
+ Waxed Weathered Copper Lantern
+ Waxed Weathered Copper Trapdoor
+ Waxed Weathered Cut Copper
+ Waxed Weathered Cut Copper Slab
+ Waxed Weathered Cut Copper Stairs
+ Waxed Weathered Lightning Rod
+ Weathered Chiseled Copper
+ Weathered Copper
+ Weathered Copper Bars
+ Weathered Copper Bulb
+ Weathered Copper Chain
+ Weathered Copper Chest
+ Weathered Copper Door
+ Weathered Copper Golem Statue
+ Weathered Copper Grate
+ Weathered Copper Lantern
+ Weathered Copper Trapdoor
+ Weathered Cut Copper
+ Weathered Cut Copper Slab
+ Weathered Cut Copper Stairs
+ Weathered Lightning Rod
+ Weeping Vines
+ Wet Sponge
+ Wheat Crops
+ White Banner
+ White Bed
+ White Candle
+ White Carpet
+ White Concrete
+ White Concrete Powder
+ White Concrete Slab​[upcoming: Third Drop 2026]
+ White Concrete Stairs​[upcoming: Third Drop 2026]
+ White Glazed Terracotta
+ White Shulker Box
+ White Stained Glass
+ White Stained Glass Pane
+ White Terracotta
+ White Tulip
+ White Wool
+ White Wool Slab​[upcoming: Third Drop 2026]
+ White Wool Stairs​[upcoming: Third Drop 2026]
+ Wildflowers
+ Wither Rose
+ Wither Skeleton Skull
+ Yellow Banner
+ Yellow Bed
+ Yellow Candle
+ Yellow Carpet
+ Yellow Concrete
+ Yellow Concrete Powder
+ Yellow Concrete Slab​[upcoming: Third Drop 2026]
+ Yellow Concrete Stairs​[upcoming: Third Drop 2026]
+ Yellow Glazed Terracotta
+ Yellow Poplar Leaves​[upcoming: Third Drop 2026]
+ Yellow Shulker Box
+ Yellow Stained Glass
+ Yellow Stained Glass Pane
+ Yellow Terracotta
+ Yellow Wool
+ Yellow Wool Slab​[upcoming: Third Drop 2026]
+ Yellow Wool Stairs​[upcoming: Third Drop 2026]
+ Zombie Head
+
+ Lists of items
+In the game
+Items that create blocks, fluids, entities
+Acacia Boat
+Acacia Boat with Chest
+Armor Stand
+Bamboo Raft
+Bamboo Raft with Chest
+Birch Boat
+Birch Boat with Chest
+Black Cushion​[upcoming: Third Drop 2026]
+Blue Egg
+Blue Cushion​[upcoming: Third Drop 2026]
+Bottle o' Enchanting
+Bow
+Brown Egg
+Brown Cushion​[upcoming: Third Drop 2026]
+Bucket
+Bucket of Axolotl
+Bucket of Cod
+Bucket of Pufferfish
+Bucket of Salmon
+Bucket of Sulfur Cube
+Bucket of Tadpole
+Bucket of Tropical Fish
+Cherry Boat
+Cherry Boat with Chest
+Crossbow
+Cyan Cushion​[upcoming: Third Drop 2026]
+Dark Oak Boat
+Dark Oak Boat with Chest
+Egg
+End Crystal
+Ender Pearl
+Eye of Ender
+Fire Charge
+Firework Rocket
+Fishing Rod
+Flint and Steel
+Glow Item Frame‌[JE only][note 1]
+Gray Cushion​[upcoming: Third Drop 2026]
+Green Cushion​[upcoming: Third Drop 2026]
+Item Frame‌[JE only][note 1]
+Jungle Boat
+Jungle Boat with Chest
+Kelp
+Lava Bucket
+Lead
+Light Blue Cushion​[upcoming: Third Drop 2026]
+Light Gray Cushion​[upcoming: Third Drop 2026]
+Lime Cushion​[upcoming: Third Drop 2026]
+Lingering Potion
+Magenta Cushion​[upcoming: Third Drop 2026]
+Mangrove Boat
+Mangrove Boat with Chest
+Minecart
+Minecart with Chest
+Minecart with Command Block
+Minecart with Furnace‌[JE only]
+Minecart with Hopper
+Minecart with TNT
+Oak Boat
+Oak Boat with Chest
+Orange Cushion​[upcoming: Third Drop 2026]
+Painting
+Pale Oak Boat
+Pale Oak Boat with Chest
+Pink Cushion​[upcoming: Third Drop 2026]
+Powder Snow Bucket
+Purple Cushion​[upcoming: Third Drop 2026]
+Poplar Boat​[upcoming: Third Drop 2026]
+Poplar Boat with Chest​[upcoming: Third Drop 2026]
+Red Cushion​[upcoming: Third Drop 2026]
+Snowball
+Splash Potion
+Spruce Boat
+Spruce Boat with Chest
+Trident
+Water Bucket
+White Cushion​[upcoming: Third Drop 2026]
+Wind Charge
+Yellow Cushion​[upcoming: Third Drop 2026]
+Items that create blocks with different names:[note 2]
+
+Beetroot Seeds[note 3]
+Carrot[note 4]
+Cocoa Beans[note 5]
+Glow Berries[note 6]
+Melon Seeds[note 7]
+Pitcher Pod[note 8]
+Potato[note 9]
+Pumpkin Seeds[note 10]
+Redstone Dust[note 11]
+String[note 12]
+Sweet Berries[note 13]
+Torchflower Seeds[note 14]
+Wheat Seeds[note 15]
+Items that directly correspond to blocks, with same name:
+
+[]
+In Bedrock Edition technical blocks items can be obtained from inventory editing or add-ons. See Technical blocks § Bedrock Edition for a complete list.
+
+Items with use in the world
+These items, when highlighted in a player's hotbar (or "held"), in the off hand, or equipped in an armor slot, can be used by either attack or use, or can serve a specific purpose (for example, offer the player advantage or disadvantage). Some can be used any time, others only when aiming at specific blocks or entities.
+
+Abandoned Camp Map​[upcoming: Third Drop 2026][note 16]
+Amethyst Shard
+Apple
+Armadillo Scute
+Arrow
+Baked Potato
+Beetroot
+Beetroot Soup
+Black Bundle
+Black Dye
+Black Harness
+Blue Bundle
+Blue Dye
+Blue Harness
+Bone
+Bone Meal
+Book
+Book and Quill
+Bowl
+Bread
+Brown Bundle
+Brown Dye
+Brown Harness
+Brush
+Bundle
+Buried Ancient City Map​[upcoming: Third Drop 2026][note 16]
+Buried Mineshaft Map​[upcoming: Third Drop 2026][note 16]
+Buried Treasure Map[note 17]
+Carrot on a Stick
+Chainmail Boots
+Chainmail Chestplate
+Chainmail Helmet
+Chainmail Leggings
+Charcoal (to power minecart with furnace‌s)‌[JE only]
+Chorus Fruit
+Coal (to power minecart with furnace‌s)‌[JE only]
+Compass
+Cooked Chicken
+Cooked Cod
+Cooked Mutton
+Cooked Porkchop
+Cooked Rabbit
+Cooked Salmon
+Cookie
+Copper Axe
+Copper Boots
+Copper Chestplate
+Copper Helmet
+Copper Hoe
+Copper Horse Armor
+Copper Leggings
+Copper Nautilus Armor
+Copper Pickaxe
+Copper Shovel
+Copper Spear
+Copper Sword
+Cyan Bundle
+Cyan Dye
+Cyan Harness
+Debug Stick‌[JE only]
+Desert Pyramid Map​[upcoming: Third Drop 2026][note 16]
+Desert Village Map[note 17]
+Diamond Axe
+Diamond Boots
+Diamond Chestplate
+Diamond Helmet
+Diamond Hoe
+Diamond Horse Armor
+Diamond Leggings
+Diamond Nautilus Armor
+Diamond Pickaxe
+Diamond Shovel
+Diamond Spear
+Diamond Sword
+Dried Kelp
+Elytra
+Empty Map
+Enchanted Book
+Enchanted Golden Apple
+Glass Bottle
+Glow Ink Sac
+Goat Horn
+Gold Ingot
+Golden Apple
+Golden Axe
+Golden Boots
+Golden Carrot
+Golden Chestplate
+Golden Helmet
+Golden Hoe
+Golden Horse Armor
+Golden Leggings
+Golden Nautilus Armor
+Golden Pickaxe
+Golden Shovel
+Golden Spear
+Golden Sword
+Gray Bundle
+Gray Dye
+Gray Harness
+Green Bundle
+Green Dye
+Green Harness
+Honeycomb
+Honey Bottle
+Ink Sac
+Iron Axe
+Iron Boots
+Iron Chestplate
+Iron Helmet
+Iron Hoe
+Iron Horse Armor
+Iron Ingot
+Iron Leggings
+Iron Nautilus Armor
+Iron Pickaxe
+Iron Shovel
+Iron Spear
+Iron Sword
+Knowledge Book‌[JE only]
+Lapis Lazuli (as a dye)‌[BE only]
+Leather Boots
+Leather Cap
+Leather Horse Armor
+Leather Pants
+Leather Tunic
+Light Blue Bundle
+Light Blue Dye
+Light Blue Harness
+Light Gray Bundle
+Light Gray Dye
+Light Gray Harness
+Lime Bundle
+Lime Dye
+Lime Harness
+Mace
+Magenta Bundle
+Magenta Dye
+Magenta Harness
+Map
+Melon Slice
+Milk Bucket
+Mushroom Stew
+Music Disc (5)
+Music Disc (11)
+Music Disc (13)
+Music Disc (blocks)
+Music Disc (Bounce)
+Music Disc (cat)
+Music Disc (chirp)
+Music Disc (Creator)
+Music Disc (Creator (Music Box))
+Music Disc (far)
+Music Disc (Lava Chicken)
+Music Disc (mall)
+Music Disc (mellohi)
+Music Disc (otherside)
+Music Disc (Pigstep)
+Music Disc (Precipice)
+Music Disc (Relic)
+Music Disc (stal)
+Music Disc (strad)
+Music Disc (Tears)
+Music Disc (wait)
+Music Disc (ward)
+Name Tag
+Netherite Axe
+Netherite Boots
+Netherite Chestplate
+Netherite Helmet
+Netherite Hoe
+Netherite Horse Armor
+Netherite Leggings
+Netherite Nautilus Armor
+Netherite Pickaxe
+Netherite Shovel
+Netherite Spear
+Netherite Sword
+Ocean Explorer Map[note 17]
+Ominous Bottle
+Ominous Trial Key
+Orange Bundle
+Orange Dye
+Orange Harness
+Pink Bundle
+Pink Dye
+Pink Harness
+Plains Village Map[note 17]
+Poisonous Potato
+Potion
+Pufferfish
+Pumpkin Pie
+Purple Bundle
+Purple Dye
+Purple Harness
+Rabbit Stew
+Raw Beef
+Raw Chicken
+Raw Cod
+Raw Mutton
+Raw Porkchop
+Raw Rabbit
+Raw Salmon
+Red Bundle
+Red Dye
+Red Harness
+Rotten Flesh
+Saddle
+Savanna Village Map[note 17]
+Shears
+Shield
+Slimeball
+Snowy Village Map[note 17]
+Spectral Arrow‌[JE only]
+Spider Eye
+Spyglass
+Steak
+Stone Axe
+Stone Hoe
+Stone Pickaxe
+Stone Shovel
+Stone Spear
+Stone Sword
+Sugar
+Suspicious Stew
+Swamp Explorer Map[note 17]
+Taiga Village Map[note 17]
+Tipped Arrow
+Totem of Undying
+Trial Explorer Map[note 17]
+Trial Key
+Tropical Fish
+Turtle Shell
+Warm Ocean Ruins Map​[upcoming: Third Drop 2026][note 16]
+Warped Fungus on a Stick
+Wheat
+White Bundle
+White Dye
+White Harness
+Wolf Armor
+Wooden Axe
+Wooden Hoe
+Wooden Pickaxe
+Wooden Shovel
+Wooden Spear
+Wooden Sword
+Woodland Explorer Map[note 17]
+Written Book
+Yellow Bundle
+Yellow Dye
+Yellow Harness
+Items with indirect use in the world
+The player cannot interact with or directly use these items; however, they are used for trading, brewing, enchanting, or crafting ingredients for other items that do have direct uses. Clocks and recovery compasses are exceptions, as they merely serve an informative function (although clocks also attract piglins as a dropped item entity).
+
+Angler Pottery Sherd
+Archer Pottery Sherd
+Arms Up Pottery Sherd
+Blade Pottery Sherd
+Blaze Powder
+Blaze Rod
+Bolt Armor Trim
+Bordure Indented Banner Pattern
+Breeze Rod
+Brewer Pottery Sherd
+Brick
+Burn Pottery Sherd
+Charcoal
+Clay Ball
+Clock
+Coal
+Coast Armor Trim
+Copper Ingot
+Copper Nugget
+Creeper Charge Banner Pattern
+Danger Pottery Sherd
+Diamond
+Disc Fragment
+Dragon's Breath
+Dune Armor Trim
+Echo Shard
+Emerald
+Explorer Pottery Sherd
+Eye Armor Trim
+Feather
+Fermented Spider Eye
+Field Masoned Banner Pattern
+Firework Star
+Flint
+Flow Armor Trim
+Flow Banner Pattern
+Flow Pottery Sherd
+Flower Charge Banner Pattern
+Friend Pottery Sherd
+Ghast Tear
+Glistering Melon Slice
+Globe Banner Pattern
+Glowstone Dust
+Gold Nugget
+Gunpowder
+Guster Banner Pattern
+Guster Pottery Sherd
+Heart of the Sea
+Heart Pottery Sherd
+Heartbreak Pottery Sherd
+Host Armor Trim
+Howl Pottery Sherd
+Iron Nugget
+Lapis Lazuli
+Leather
+Lodestone Compass[note 18]
+Magma Cream
+Miner Pottery Sherd
+Mourner Pottery Sherd
+Nautilus Shell
+Nether Brick
+Nether Quartz
+Nether Star
+Netherite Ingot
+Netherite Scrap
+Netherite Upgrade
+Paper
+Phantom Membrane
+Plenty Pottery Sherd
+Popped Chorus Fruit
+Prismarine Crystals
+Prismarine Shard
+Prize Pottery Sherd
+Rabbit Hide
+Rabbit's Foot
+Raiser Armor Trim
+Raw Copper
+Raw Gold
+Raw Iron
+Recovery Compass
+Resin Brick
+Rib Armor Trim
+Scrape Pottery Sherd
+Sentry Armor Trim
+Shaper Armor Trim
+Sheaf Pottery Sherd
+Shelter Pottery Sherd
+Shulker Shell
+Silence Armor Trim
+Skull Charge Banner Pattern
+Skull Pottery Sherd
+Snort Pottery Sherd
+Snout Armor Trim
+Snout Banner Pattern
+Spire Armor Trim
+Stick
+Thing Banner Pattern
+Tide Armor Trim
+Turtle Scute
+Vex Armor Trim
+Ward Armor Trim
+Wayfinder Armor Trim
+Wild Armor Trim
+Spawn eggs
+Spawn eggs spawn the entity inside them. They cannot be obtained in Survival mode.
+
+Armadillo Spawn Egg
+Allay Spawn Egg
+Agent Spawn Egg‌[BE & edu only]
+Axolotl Spawn Egg
+Bat Spawn Egg
+Bee Spawn Egg
+Blaze Spawn Egg
+Bogged Spawn Egg
+Breeze Spawn Egg
+Camel Husk Spawn Egg
+Camel Spawn Egg
+Cat Spawn Egg
+Cave Spider Spawn Egg
+Chicken Spawn Egg
+Cod Spawn Egg
+Copper Golem Spawn Egg
+Cow Spawn Egg
+Creeper Spawn Egg
+Creaking Spawn Egg
+Dolphin Spawn Egg
+Donkey Spawn Egg
+Drowned Spawn Egg
+Elder Guardian Spawn Egg
+Ender Dragon Spawn Egg
+Enderman Spawn Egg
+Endermite Spawn Egg
+Evoker Spawn Egg
+Fox Spawn Egg
+Frog Spawn Egg
+Ghast Spawn Egg
+Glow Squid Spawn Egg
+Goat Spawn Egg
+Guardian Spawn Egg
+Happy Ghast Spawn Egg
+Hoglin Spawn Egg
+Horse Spawn Egg
+Husk Spawn Egg
+Iron Golem Spawn Egg
+Llama Spawn Egg
+Magma Cube Spawn Egg
+Mooshroom Spawn Egg
+Mule Spawn Egg
+Nautilus Spawn Egg
+NPC Spawn Egg‌[BE & edu only]
+Ocelot Spawn Egg
+Panda Spawn Egg
+Parched Spawn Egg
+Parrot Spawn Egg
+Phantom Spawn Egg
+Pig Spawn Egg
+Piglin Spawn Egg
+Piglin Brute Spawn Egg
+Pillager Spawn Egg
+Polar Bear Spawn Egg
+Pufferfish Spawn Egg
+Rabbit Spawn Egg
+Ravager Spawn Egg
+Salmon Spawn Egg
+Sheep Spawn Egg
+Shulker Spawn Egg
+Silverfish Spawn Egg
+Skeleton Horse Spawn Egg
+Skeleton Spawn Egg
+Slime Spawn Egg
+Sniffer Spawn Egg
+Snow Golem Spawn Egg
+Spider Spawn Egg
+Squid Spawn Egg
+Sulfur Cube Spawn Egg
+Stray Spawn Egg
+Strider Spawn Egg
+Tadpole Spawn Egg
+Trader Llama Spawn Egg
+Tropical Fish Spawn Egg
+Turtle Spawn Egg
+Vex Spawn Egg
+Villager Spawn Egg
+Vindicator Spawn Egg
+Wandering Trader Spawn Egg
+Warden Spawn Egg
+Witch Spawn Egg
+Wither Skeleton Spawn Egg
+Wither Spawn Egg
+Wolf Spawn Egg
+Zoglin Spawn Egg
+Zombie Horse Spawn Egg
+Zombie Nautilus Spawn Egg
+Zombie Spawn Egg
+Zombie Villager Spawn Egg
+Zombified Piglin Spawn Egg
+
+List of mobs
+Mobs are listed and classified by their nature from the player's perspective. For more details on a particular mob, click on them to view their individual page.
+
+Passive mobs
+Passive mobs never deliberately attack players, even when provoked or attacked, though some of them may attack other mobs. Most of them are animals and can be bred or tamed.
+
+
+Allay
+
+Armadillo
+
+Axolotl
+
+Bat
+
+Camel
+
+Camel Husk[p 1]
+
+Cat
+
+Chicken
+
+Cod
+
+Copper Golem
+
+Cow
+
+Donkey
+
+Frog
+
+Glow Squid
+
+Happy Ghast
+
+Horse
+
+Mooshroom
+
+Mule
+
+Ocelot
+
+Parrot
+
+Pig
+
+Rabbit
+
+Salmon
+
+Sheep
+
+Skeleton Horse[p 1]
+
+Sniffer
+
+Snow Golem[note 1]
+
+Squid
+
+Strider
+
+Sulfur Cube
+[note 2]
+
+Tadpole
+
+Tropical Fish
+
+Turtle
+
+Villager[note 3]
+
+Wandering Trader
+
+Zombie Horse[p 1]
+ These mobs, although passive, are considered monsters and are involved in mechanics pertaining to hostile mobs.
+Neutral mobs
+Neutral mobs are sometimes passive and sometimes hostile toward the player. These mobs usually require provocation from the player in one way or another to attack or become hostile, while some can be naturally hostile and have a way to be pacified.
+
+
+Bee
+
+Cave Spider
+
+Dolphin
+
+Drowned
+
+Enderman
+
+Fox
+
+Goat
+
+Iron Golem
+
+Llama
+
+Nautilus
+
+Panda
+
+Piglin
+
+Polar Bear
+
+Pufferfish
+
+Spider
+
+Trader Llama
+
+Wolf
+
+Zombie Nautilus
+
+Zombified Piglin
+
+
+Hostile mobs
+Hostile mobs are dangerous, aggressive monsters that always attack the player within their respective detection ranges. Monsters in general, whether passive or neutral, are involved in mechanics pertaining to hostile mobs regardless of behavior.
+
+
+Blaze
+
+Bogged
+
+Breeze
+
+Creaking
+
+Creeper
+
+Elder Guardian
+
+Endermite
+
+Evoker
+
+Ghast
+
+Guardian
+
+Hoglin
+
+Husk
+
+Magma Cube
+
+Parched
+
+Phantom
+
+Piglin Brute
+
+Pillager
+
+Ravager
+
+Shulker
+
+Silverfish
+
+Skeleton
+
+Slime
+
+Stray
+
+Vex
+
+Vindicator
+
+Warden
+
+Witch
+
+Wither Skeleton
+
+Zoglin
+
+Zombie
+
+Zombie Villager
+
+
+Boss mobs
+ This section is about the boss mobs in Minecraft. For other uses, see Boss (disambiguation).
+Boss mobs are special hostile mobs that are tougher and more dangerous than other mobs. They do not spawn randomly and are confronted intentionally. All boss mobs have a bossbar featuring their name and health. Boss mobs provide unique challenges and equivalent rewards, such as XP or useful items.
+
+
+Ender Dragon
+
+Wither
