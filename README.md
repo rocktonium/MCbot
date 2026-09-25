@@ -1,8 +1,11 @@
 I originally created this for personal use on my own Minecraft server but I wanted to publish for presentation.
 
 To setup:
+
 1.In .env file, input your Discord bot auth key and your OpenAI-compatible endpoint key. 
+
 2.Currently the endpoint is set to OpenRouter with gpt-oss but can be changed in ai.py file to any endpoint and model you like.
+
 3.Run bot.py! Currently bot is setup with a prebuilt wiki index but it may only have knowledge up to 1.20 based on the state of the wiki at the time. To rebuild and fetch the latest articles/Minecraft updates run the build_index.py file.
 
 Commands:
